@@ -1,1 +1,1 @@
-# daily_algorithm
+# monthly_algorithm
